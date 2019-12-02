@@ -1,0 +1,4 @@
+df -h
+
+#df - report file system disk space usage
+#Flag “-h” (—human-readable) - print sizes in powers of 1024.

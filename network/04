@@ -1,0 +1,5 @@
+netstat -nr | grep 'default' | sed q | awk '{print $2}'
+
+#Cut information about default gateway showed with netstat using the command “grep”
+#that cut information about “default” and then print information using “awk”.
+#”Sed -q” need for stoping after first match.

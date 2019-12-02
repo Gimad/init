@@ -1,0 +1,6 @@
+dig @8.8.8.8 slash16.org +short
+
+#dig (domain information groper) is a flexible
+#tool for interrogating DNS name servers. It performs DNS lookups and displays the answers
+#that are returned from the name server(s) that were queried.
+#+short provide a terse answer. The default is to print the answer in a verbose form.

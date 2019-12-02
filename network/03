@@ -1,0 +1,4 @@
+ifconfig en1 | grep 'ether' | awk '{print $2}'
+
+#Cut information about MAC address of the Wi-Fi card using the command “grep”
+#that cut information about “ether” and then print ip-address using “awk”

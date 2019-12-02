@@ -1,0 +1,5 @@
+ipconfig getifaddr en0
+
+#ipconfig - view and control IP configuration state
+#getifaddr interface-name - prints to standard output the IP
+#address for the first network service associated with the given interface.

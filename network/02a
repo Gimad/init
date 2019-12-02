@@ -1,0 +1,4 @@
+ifconfig en0 | grep broadcast | awk '{print $6}'
+
+#Cut information about broadcast address using the command “grep”
+#that cut information about “broadcast” and then print ip-address using “awk”

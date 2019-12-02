@@ -1,0 +1,3 @@
+sudo tail -f /var/log/syslog &
+
+#Using “&” at the end make run command in background

@@ -1,0 +1,5 @@
+sudo du -sh /var/*
+
+#du - estimate file space usage
+#Flag “-s” - display only a total for each argument
+#Flag “-h” -  print  sizes in human readable format

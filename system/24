@@ -1,0 +1,4 @@
+sudo apt list
+
+#apt provides a high-level commandline interface for the package management system.
+#List can display a list of packages satisfying certain criteria.

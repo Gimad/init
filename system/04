@@ -1,0 +1,5 @@
+who -b
+uptime -s
+
+#Who - show who is logged on. Flag “-b” show time of last system boot.
+#Uptime - Tell how long the system has been running. Flag “-s” show system up since, in yyyy-mm-dd HH:MM:SS format.

@@ -1,0 +1,4 @@
+sudo fdisk -l
+
+#fdisk is a dialog-driven program for creation and manipulation of partition tables.
+# Flag “-l” - list  the partition tables for the specified devices and then exit.
